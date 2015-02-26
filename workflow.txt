@@ -1,0 +1,5 @@
+ipython nbconvert --config jekyll.py [notebook]
+
+make sure environment variable BLOG_DIR is set, ie navigate here
+and call 
+export BLOG_DIR=/Users/kieranc/www/kieranrcampbell/
