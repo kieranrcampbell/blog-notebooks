@@ -1,2 +1,1 @@
-# blog-notebooks
-IPython notebooks and R markdowns for blog
+IPython notebooks and R scripts for technical blog posts
